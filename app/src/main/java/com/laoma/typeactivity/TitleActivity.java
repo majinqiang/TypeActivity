@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 
 /**
  * Created by majinqiang on 3/24/2017.
+ * http://www.jianshu.com/p/004887bde8c9
+ * Android :Activity中切换不同状态页：加载中，加载失败，数据页，空页面
  */
 
 public class TitleActivity extends BaseActivity {
